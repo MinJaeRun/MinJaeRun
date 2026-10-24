@@ -29,5 +29,3 @@ I enjoy building performant, reliable services, exploring graphics programming a
 - 🐾 Long weekend walks and mountain trails around Yangmingshan with my dog.
 - 🎮 Cozy indie adventures, RPGs, and retro platformers.
 - 🍵 Brewing high-mountain oolong tea and single-origin pour-overs.
-
----
