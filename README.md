@@ -31,7 +31,3 @@ I enjoy building performant, reliable services, exploring graphics programming a
 - 🍵 Brewing high-mountain oolong tea and single-origin pour-overs.
 
 ---
-
-<p align="center">
-  <i>"Code with clarity, optimize with care, and always leave the trail cleaner than you found it."</i> 🌿
-</p>
